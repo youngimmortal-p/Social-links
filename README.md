@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/image/FireShot%20Capture%20007%20-%20Social%20Links%20-%20.png)
+(/image/FireShot%20Capture%20007%20-%20Social%20Links%20-%20.png)
 
 
 ### Links
