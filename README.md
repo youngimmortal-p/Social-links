@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-(/image/FireShot%20Capture%20007%20-%20Social%20Links%20-%20.png)
+/image/FireShot%20Capture%20007%20-%20Social%20Links%20-%20.png
 
 
 ### Links
 
-- Solution URL: (https://github.com/youngimmortal-p/Social-links.git)
-- Live Site URL: (https://social-links-seven-xi.vercel.app/)
+- Solution URL: https://github.com/youngimmortal-p/Social-links.git
+- Live Site URL: https://social-links-seven-xi.vercel.app/
 
 
 
@@ -48,7 +48,7 @@ I learnt how to use the css transition property
 
 ## Author
 
-- Frontend Mentor - (@youngimmortal-p)
-- Twitter - (@OdugbemiOp51906)
+- Frontend Mentor - https://www.frontendmentor.io/profile/youngimmortal-p
+- Twitter - https://www.twitter.com/OdugbemiOp51906
 
 
